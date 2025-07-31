@@ -5,7 +5,6 @@
 > The creator of this page is **NOT** affiliated with any company or brand in any way.  
 > This page is a personal project made in connection with an educational exercise.
 
----
 
 ## 🛒 About This Project
 
@@ -18,7 +17,7 @@ The project demonstrates:
 - FontAwesome icon integration
 - Custom footer and basic layout styling
 
----
+
 
 
 
